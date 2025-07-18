@@ -5,7 +5,9 @@
 ````markdown
 # Simple Calculator in C
 
-This is a simple calculator program written in the C programming language. It allows users to perform basic arithmetic operations like addition, subtraction, multiplication, and division between two numbers.
+This is a simple calculator program written in the C programming language.
+It allows users to perform basic arithmetic operations like
+(addition, subtraction, multiplication, and division) between two numbers.
 
 ---
 
@@ -24,7 +26,8 @@ This is a simple calculator program written in the C programming language. It al
 1. The user is asked to input an arithmetic operator (`+`, `-`, `*`, `/`).
 2. Then the user inputs two numbers (operands).
 3. The program performs the selected operation and shows the result.
-4. If the user inputs an invalid operator or tries to divide by zero, the program displays an error message.
+4. If the user inputs an invalid operator or tries to divide by zero,
+the program displays an error message.
 
 ---
 
